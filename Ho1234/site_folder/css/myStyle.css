@@ -1,0 +1,20 @@
+/* STYLE SHEET FOR (personal web site) */
+
+body 
+{
+margin:0px;
+background-color:#CCCCCC;
+}
+
+
+h1
+{
+font-weight: bold;
+text-decoration: underline;
+color: #EE3333;
+font-size: 160%;
+margin-bottom: 25px;
+margin-top:0px;
+}
+
+
